@@ -18,4 +18,4 @@ def get_num(num):
     return json.dumps(num_boolean)
 
 if(__name__) == "__main__":
-    app.run(debug=True)
+    app.run(debug=False, host='0.0.0.0')
