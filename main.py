@@ -1,11 +1,11 @@
-from flask import Flask
+from flask import Flask, render_template
 import json
 
 app = Flask(__name__)
 
 @app.route('/')
 def index():
-    return "Enter a number after the slash to check if it is odd."
+    return render_template("home.html")
 
 @app.route('/<string:num>', methods=['GET'])
 def get_num(num):
@@ -16,3 +16,6 @@ def get_num(num):
     else:
         num_boolean = True
     return json.dumps(num_boolean)
+
+if __name__ == "__main__":
+    app.run(debug=True)
