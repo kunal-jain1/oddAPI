@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-    return "Enter a number to see if it is odd"
+    return "Enter a number after the slash to check if it is odd."
 
 @app.route('/<string:num>', methods=['GET'])
 def get_num(num):
