@@ -15,5 +15,14 @@ def get_num(num):
         num_boolean = False
     return json.dumps(num_boolean)
 
+@app.route('/shields/<string:num>', methods=['GET'])
+def get_shield_info(num):
+    int_num = int(num)
+    num_boolean = True
+    if (int_num % 2) == 0:
+        num_boolean = False
+    dict = {'schemaVersion:', 1, 'label:', 'is it odd', 'message:', num_boolean, 'color', 'green'}
+    return json.dumps(dict)
+
 if __name__ == "__main__":
     app.run(debug=True)
