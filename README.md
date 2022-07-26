@@ -37,11 +37,10 @@
 <!-- ABOUT THE PROJECT -->
 <h2 id="about-the-project">About The Project</h2>
 
-<p align="justify"> 
-  This project is an open source, cloud-based, representational state transfer Application Programming Interface designed with developers in mind. Streamline your workflow through a remarkably powerful algorithim that has been depended on by thousands of Big Tech companies like Salesforce, Meta, and AOL for decades.
-  This API is transforming the paradigm of programming itself through its infinitely-scalable, revolutionary design based on the abeyant landscape of
-  imperative programming. OddAPI aims to provide a bleeding edge, lightweight, and transformative solution for businesses of all sizes, especially those with a big personality! It has been proven to correlate with increased efficency, engagement rates, diversity, and even bandwidth in hundreds of thousands of SaaS, PaaS, DaaS, IaaS, MSaaS, MBaaS, DCaaS, iPaaS, ITMaaS... companies. Simlpy continue below to learn how to leverage this promising and intuitive cont-gen service!
-</p>
+This project is an open source, cloud-based, representational state transfer Application Programming Interface designed with developers in mind. Streamline your workflow through a remarkably powerful algorithim that has been depended on by thousands of Big Tech companies like Salesforce, Meta, and AOL for decades.
+This API is transforming the paradigm of programming itself through its infinitely-scalable, revolutionary design based on the abeyant landscape of
+imperative programming. OddAPI aims to provide a bleeding edge, lightweight, and transformative solution for businesses of all sizes, especially those with a big personality! It has been proven to correlate with increased efficency, engagement rates, diversity, and even bandwidth in hundreds of thousands of SaaS, PaaS, DaaS, IaaS, MSaaS, MBaaS, DCaaS, iPaaS, ITMaaS... companies. Simlpy continue below to learn how to leverage this promising and intuitive cont-gen service!
+
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
