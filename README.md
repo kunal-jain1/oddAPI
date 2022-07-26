@@ -14,7 +14,6 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-
 <br>
 
 ![-----------------------------------------------------](line.png)
@@ -42,7 +41,7 @@
 
 This project is an open source, cloud-based, representational state transfer Application Programming Interface designed with developers in mind. Streamline your workflow through a remarkably powerful algorithim that has been depended on by thousands of Big Tech companies like Salesforce, Meta, and AOL for decades.
 This API is transforming the paradigm of programming itself through its infinitely-scalable, revolutionary design based on the abeyant landscape of
-imperative programming. OddAPI aims to provide a bleeding edge, lightweight, and transformative solution for businesses of all sizes, especially those with a big personality! It has been proven to correlate with increased efficency, engagement rates, diversity, and even bandwidth in hundreds of thousands of SaaS, PaaS, DaaS, IaaS, MSaaS, MBaaS, DCaaS, iPaaS, ITMaaS<span style="font-weight:bold;font-size:110%">.</span><span style="opacity:.91;font-size:105%">.</span><span style="opacity:.8">.</span><span style="opacity:.7;font-size:95%">.</span><i>(cont.)</i> companies. Simlpy continue below to learn how to leverage this promising and intuitive cont-gen<sup><a href="#Footnote">1</a></sup> service!
+imperative programming. OddAPI aims to provide a bleeding edge, lightweight, and transformative solution for businesses of all sizes, especially those with a big personality! It has been proven to correlate with increased efficency, engagement rates, diversity, and even bandwidth in hundreds of thousands of SaaS, PaaS, DaaS, IaaS, MSaaS, MBaaS, DCaaS, iPaaS, ITMaaS<b>.</b>.<small>.</small><i>(cont.)</i> companies. Simlpy continue below to learn how to leverage this promising and intuitive past, current, and future gen<sup><a href="#Footnote">1</a></sup> service!
 
 
 ![-----------------------------------------------------](line.png))
@@ -50,7 +49,8 @@ imperative programming. OddAPI aims to provide a bleeding edge, lightweight, and
 <!-- PREREQUISITES -->
 <h2 id="prerequisites"> Prerequisites</h2>
 
-[![made-with-python](https://img.shields.io/badge/made%20with-python-55B4AC?style=flat-square)](https://www.python.org/) <br>
+[![Python][python-shield]][python-url]
+<br>
 
 These amazing packages are used in this project:
 * Flask
@@ -68,11 +68,10 @@ Simply visit [our API](https://oddapi.herokuapp.com/) to find out more.
 ![-----------------------------------------------------](line.png))
 
 <!-- EXAMPLE -->
-<h2 id="example"> Example link</h2>
+<h2 id="example"> Example Link</h2>
 
-```
-https://oddapi.herokuapp.com/1
-```
+<b>Is the number 1 odd?</b> <br>
+<a href="https://oddapi.herokuapp.com/1" style="background-color:#3a3f4b;color:white;font-family:Consolas;padding:2px 5px 2px 2px;border-radius:3px">https://oddapi.herokuapp.com/1</a>
 
 ![-----------------------------------------------------](line.png))
 
@@ -91,7 +90,7 @@ https://oddapi.herokuapp.com/1
 
 <!---FOOTNOTES -->
 <h2 id="Footnote">Footnotes</h2>
-<p>1. contingous-generation: Current, past, and soon-future generations of technology</p>
+<p style="font-size:.5em">1. Its just int%2==0</p>
 
 
 <!-- LINKS & IMAGES -->
@@ -114,3 +113,5 @@ https://oddapi.herokuapp.com/1
 [issues-url]: https://github.com/wherewith/oddAPI/issues
 
 [size-shield]: https://img.shields.io/github/size/wherewith/oddAPI/main.py?color=55B4AC&label=its%20only&style=flat-square
+[python-shield]: https://img.shields.io/badge/made%20with-python-55B4AC?logo=python&logoColor=71AD83&style=flat-square
+[python-url]: https://www.python.org/
