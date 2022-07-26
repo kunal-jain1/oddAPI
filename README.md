@@ -71,7 +71,8 @@ Simply visit [our API](https://oddapi.herokuapp.com/) to find out more.
 <h2 id="example"> Example Link</h2>
 
 <b>Is the number 1 odd?</b> <br>
-<a href="https://oddapi.herokuapp.com/1" style="background-color:#3a3f4b;color:white;font-family:Consolas;padding:2px 5px 2px 2px;border-radius:3px">https://oddapi.herokuapp.com/1</a>
+
+[`https://oddapi.herokuapp.com/`](https://oddapi.herokuapp.com/)
 
 ![-----------------------------------------------------](line.png)
 
@@ -90,7 +91,7 @@ Simply visit [our API](https://oddapi.herokuapp.com/) to find out more.
 
 <!---FOOTNOTES -->
 <h2 id="Footnote">Footnotes</h2>
-<p style="font-size:.5em">1. Its just int%2==0</p>
+1. Its just int%2==0
 
 
 <!-- LINKS & IMAGES -->
