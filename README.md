@@ -86,15 +86,6 @@ https://oddapi.herokuapp.com/1
 <br>
 
 <!-- LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/wherewith/oddAPI?style=flat-square
-[contributors-url]: https://github.com/wherewith/oddAPI/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/wherewith/oddAPI?style=flat-square
-[forks-url]: https://github.com/wherewith/oddAPI/network/members
-[stars-shield]: https://img.shields.io/github/stars/wherewith/oddAPI?style=flat-square
-[stars-url]: https://github.com/wherewith/oddAPI/stargazers
-[issues-shield]: https://img.shields.io/github/issues/wherewith/oddAPI?style=flat-square
-[issues-url]: https://github.com/wherewith/oddAPI/issues
-
 [status-shield]: https://img.shields.io/badge/status%3A-stable-brightgreen?style=flat-square
 [status-url]: https://oddapi.herokuapp.com/
 [practicality-shield]: https://img.shields.io/badge/practicality%3A-100%25-9cf?style=flat-square
@@ -103,3 +94,12 @@ https://oddapi.herokuapp.com/1
 [usage-url]: https://www.google.com/search?q=number+of+companies+in+the+world
 [license-shield]: https://img.shields.io/badge/license%3A-GNU%20GPLv3-green?style=flat-square
 [license-url]: https://github.com/wherewith/oddAPI/blob/master/COPYING.txt
+
+[contributors-shield]: https://img.shields.io/github/contributors/wherewith/oddAPI?style=flat-square
+[contributors-url]: https://github.com/wherewith/oddAPI/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/wherewith/oddAPI?style=flat-square
+[forks-url]: https://github.com/wherewith/oddAPI/network/members
+[stars-shield]: https://img.shields.io/github/stars/wherewith/oddAPI?style=flat-square
+[stars-url]: https://github.com/wherewith/oddAPI/stargazers
+[issues-shield]: https://img.shields.io/github/issues/wherewith/oddAPI?style=flat-square
+[issues-url]: https://github.com/wherewith/oddAPI/issues
