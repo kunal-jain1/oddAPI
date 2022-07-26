@@ -32,7 +32,7 @@
   </ol>
 </details>
 
-![-----------------------------------------------------](line.png))
+![-----------------------------------------------------](line.png)
 
 <!-- ABOUT THE PROJECT -->
 <h2 id="about-the-project">About The Project</h2>
@@ -44,7 +44,7 @@ This API is transforming the paradigm of programming itself through its infinite
 imperative programming. OddAPI aims to provide a bleeding edge, lightweight, and transformative solution for businesses of all sizes, especially those with a big personality! It has been proven to correlate with increased efficency, engagement rates, diversity, and even bandwidth in hundreds of thousands of SaaS, PaaS, DaaS, IaaS, MSaaS, MBaaS, DCaaS, iPaaS, ITMaaS<b>.</b>.<small>.</small><i>(cont.)</i> companies. Simlpy continue below to learn how to leverage this promising and intuitive past, current, and future gen<sup><a href="#Footnote">1</a></sup> service!
 
 
-![-----------------------------------------------------](line.png))
+![-----------------------------------------------------](line.png)
 
 <!-- PREREQUISITES -->
 <h2 id="prerequisites"> Prerequisites</h2>
@@ -57,7 +57,7 @@ These amazing packages are used in this project:
 * Gunicorn
 * Werkzeug
 
-![-----------------------------------------------------](line.png))
+![-----------------------------------------------------](line.png)
 
 <!-- USAGE -->
 <h2 id="usage"> Usage</h2>
@@ -65,7 +65,7 @@ These amazing packages are used in this project:
 This software is not only revolutionary, it's intuitive too!
 Simply visit [our API](https://oddapi.herokuapp.com/) to find out more.
 
-![-----------------------------------------------------](line.png))
+![-----------------------------------------------------](line.png)
 
 <!-- EXAMPLE -->
 <h2 id="example"> Example Link</h2>
@@ -73,7 +73,7 @@ Simply visit [our API](https://oddapi.herokuapp.com/) to find out more.
 <b>Is the number 1 odd?</b> <br>
 <a href="https://oddapi.herokuapp.com/1" style="background-color:#3a3f4b;color:white;font-family:Consolas;padding:2px 5px 2px 2px;border-radius:3px">https://oddapi.herokuapp.com/1</a>
 
-![-----------------------------------------------------](line.png))
+![-----------------------------------------------------](line.png)
 
 <!-- CONTRIBUTORS -->
 <h2 id="contributors">Contributors</h2>
@@ -86,7 +86,7 @@ Simply visit [our API](https://oddapi.herokuapp.com/) to find out more.
 </p>
 <br>
 
-![-----------------------------------------------------](line.png))
+![-----------------------------------------------------](line.png)
 
 <!---FOOTNOTES -->
 <h2 id="Footnote">Footnotes</h2>
