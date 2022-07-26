@@ -72,7 +72,7 @@ Simply visit [our API](https://oddapi.herokuapp.com/) to find out more.
 
 <b>Is the number 1 odd?</b> <br>
 
-[`https://oddapi.herokuapp.com/`](https://oddapi.herokuapp.com/)
+[`https://oddapi.herokuapp.com/1`](https://oddapi.herokuapp.com/1)
 
 ![-----------------------------------------------------](line.png)
 
